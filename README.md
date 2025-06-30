@@ -178,11 +178,3 @@ RECOMMENDATION_CONFIG = {
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [PyTorch](https://pytorch.org/)
 
-## 📧 문의
-
-프로젝트 관련 문의사항이 있으시면 이슈를 등록해주세요.
-
----
-
-**개발자**: Insurance Recommendation Team  
-**업데이트**: 2024년 현재 
